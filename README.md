@@ -276,10 +276,9 @@ We welcome contributions! Here's how you can help:
 
 **👩‍💻 Author:** Ankita Kapoor
 
-- 📧 **Email:** [ankitak6058@gmail.com]
-- 💼 **LinkedIn:** [Connect with me]([https://linkedin.com/in/ankitakapoor980](https://www.linkedin.com/in/ankita-kapoor-b81354217?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 📧 **Email:** [ankita.kapoor980@gmail.com]
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ankita-kapoor-b81354217)
 - 🐛 **Issues:** [Report bugs here](https://github.com/AnkitaKapoor980/Predictive-Modeling-Case-Studies/issues)
-
 
 ---
 
@@ -306,13 +305,20 @@ If you found this repository helpful, please consider:
 
 <div align="center">
 
-### 👥 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/AnkitaKapoor980-Predictive-Modeling-Case-Studies/count.svg)
+### 👥 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=AnkitaKapoor980&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
-### 📊 Additional Stats
+### 📊 Repository Metrics
 ![GitHub repo size](https://img.shields.io/github/repo-size/AnkitaKapoor980/Predictive-Modeling-Case-Studies?style=for-the-badge&color=blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AnkitaKapoor980/Predictive-Modeling-Case-Studies?style=for-the-badge&color=green)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AnkitaKapoor980/Predictive-Modeling-Case-Studies?style=for-the-badge&color=orange)
+
+
+### 📈 Alternative Counters
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AnkitaKapoor980.Predictive-Modeling-Case-Studies&style=for-the-badge&color=brightgreen)
+
+![GitHub watchers](https://img.shields.io/github/watchers/AnkitaKapoor980/Predictive-Modeling-Case-Studies?style=for-the-badge&color=yellow)
+![GitHub language count](https://img.shields.io/github/languages/count/AnkitaKapoor980/Predictive-Modeling-Case-Studies?style=for-the-badge&color=purple)
 
 ---
 
@@ -321,13 +327,5 @@ If you found this repository helpful, please consider:
 **[🚀 Get Started Now](https://github.com/AnkitaKapoor980/Predictive-Modeling-Case-Studies)**
 
 *Made with ❤️ and lots of ☕*
-
----
-
-### 🔗 Alternative Visitor Counters
-
-<!-- Backup visitor counters if you prefer different styles -->
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=AnkitaKapoor980&repo=Predictive-Modeling-Case-Studies&style=flat-square&color=blue) -->
-<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnkitaKapoor980%2FPredictive-Modeling-Case-Studies&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repository+Views&edge_flat=false) -->
 
 </div>
